@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Marquet;Matt;;;
-FN: Matt MArquet 
+FN: Matt Marquet 
 ORG:3d Medical Battalion;
 TITLE:Commanding  Officer, H&S Company
 EMAIL;type=INTERNET;type=WORK;type=pref:matthew.marquet@usmc.mil
-TEL;type=WORK;type=VOICE:011+81 098079103112
-item1.ADR;type=WORK;type=pref:;;3d MEdical Battalion;;;;Camp Foster
+TEL;type=WORK;type=VOICE:011+81 098 791 3112
+item1.ADR;type=WORK;type=pref:;;Unit 38445\FPO AP;;; 96373-8445;Camp Foster
 item1.X-ABADR:sg
-item2.URL;type=pref:
+item2.URL;type=pref:https://www.3rdmlg.marines.mil/Units/Subordinate-Units/3d-Medical-Battalion/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
